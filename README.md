@@ -2,9 +2,9 @@
 
 
 # M850-C-Driver
-Driver for AllenBradley Micro850 with Visual Basic C#
+Driver for Allen Bradley Micro850 with Visual Studio C#
 
-//Import files in your projets in visual Basic. 
+//Import files in your projets in Visual Studio. 
 
 //Exemple with a Android application :
 
